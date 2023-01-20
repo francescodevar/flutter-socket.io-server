@@ -5,10 +5,10 @@ const Band = require('../models/band');
 
 const bands = new Bands();
 
-bands.addBand( new Band( 'Silvio el bacan' ) );
-bands.addBand( new Band( 'Enzo el vergas' ) );
-bands.addBand( new Band( 'Bruno el forastero' ) );
-bands.addBand( new Band( 'Fernando el toxico' ) );
+bands.addBand( new Band( 'Real Madrid' ) );
+bands.addBand( new Band( 'Barcelona' ) );
+bands.addBand( new Band( 'PSG' ) );
+bands.addBand( new Band( 'Manchester' ) );
 
 
 // Mensajes de Sockets
