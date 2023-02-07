@@ -5,10 +5,10 @@ const Band = require('../models/band');
 
 const bands = new Bands();
 
-bands.addBand( new Band( 'Real Madrid' ) );
-bands.addBand( new Band( 'Barcelona' ) );
-bands.addBand( new Band( 'PSG' ) );
-bands.addBand( new Band( 'Manchester' ) );
+bands.addBand( new Band( 'Angie' ) );
+bands.addBand( new Band( 'Francesco' ) );
+bands.addBand( new Band( 'Karlita' ) );
+bands.addBand( new Band( 'Ariel' ) );
 
 
 // Mensajes de Sockets
